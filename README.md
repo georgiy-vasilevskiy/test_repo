@@ -1,5 +1,4 @@
 ![][pic]
 
-[pic]: pic/kandinsky-download-1695168086666.png
-
+[pic]: pic/background-737866195 (1).png
 # ПОРТФОЛИО
