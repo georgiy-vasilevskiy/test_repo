@@ -13,7 +13,9 @@
       <a href="https://nbviewer.org/github/georgiy-vasilevskiy/test_repo/blob/main/Forecasting_the_Steel_Melting_Temperature_at_the_End_of_the_Alloying_Stage.ipynb">
         <img src="https://img.shields.io/badge/Смотреть-ipynb-E46E2E">
       </a>
-
+      <a href="https://htmlpreview.github.io/?https://github.com/georgiy-vasilevskiy/test_repo/blob/main/Forecasting_the_Steel_Melting_Temperature_at_the_End_of_the_Alloying_Stage.html">
+        <img src="https://img.shields.io/badge/Смотреть-html-blue">
+      </a>
 
 [Смотреть](https://nbviewer.org/github/georgiy-vasilevskiy/test_repo/blob/main/Forecasting_the_Steel_Melting_Temperature_at_the_End_of_the_Alloying_Stage.ipynb)
     <td>
