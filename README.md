@@ -4,7 +4,7 @@
       <img src="pic/kandinsky-download-1697056680849.png" height="150" width="150">
     </td>
     <td valign="top">
-      <h2>Прогнозирование температуры расплава стали после окончания стадии легирования</h2>
+      <h3>Прогнозирование температуры расплава стали после окончания стадии легирования</h3>
       <br><i>Forecasting the Steel Melting Temperature at the End of the Alloying Stage</i>
     </td>
   </tr>
