@@ -11,6 +11,9 @@
   <tr>
     <td valign="top">
 
+![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fnbviewer.org%2Fgithub%2Fgeorgiy-vasilevskiy%2Ftest_repo%2Fblob%2Fmain%2FForecasting_the_Steel_Melting_Temperature_at_the_End_of_the_Alloying_Stage.ipynb)
+
+
 [Смотреть](https://nbviewer.org/github/georgiy-vasilevskiy/test_repo/blob/main/Forecasting_the_Steel_Melting_Temperature_at_the_End_of_the_Alloying_Stage.ipynb)
     <td>
       text
