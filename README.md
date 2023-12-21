@@ -13,7 +13,7 @@
 
 [Смотреть](https://nbviewer.org/github/georgiy-vasilevskiy/test_repo/blob/main/Forecasting_the_Steel_Melting_Temperature_at_the_End_of_the_Alloying_Stage.ipynb)
     <td>
-      Современное производство стали использует большое количество электрической энергии. Большая её часть идёт на нагрев и плавление сырья и вспомогательных реагентов, а также на поддержание температуры расплава на заданном уровне. Снижение уровня потребления электроэнергии позволит снизить расходы на неё, что приведёт к сокращению затрат на производство стали, снижению её себестоимости и, как следствие, повышению конкурентоспособности продукции металлургического предприятия.
+      text
     </td>
   </tr>
 </tbody></table>
@@ -22,4 +22,10 @@
 
 <a taget="_blank" title="Использовать nbviewer" href="https://nbviewer.org/github/georgiy-vasilevskiy/test_repo/blob/main/Forecasting_the_Steel_Melting_Temperature_at_the_End_of_the_Alloying_Stage.ipynb">Смотреть</a>
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=georgiy-vasilevskiy.test-repo)
+
+
+![](https://komarev.com/ghpvc/?username=georgiy-vasilevskiy&label=Profile+views)
+
+![](https://img.shields.io/badge/any_text-текст-blue)
