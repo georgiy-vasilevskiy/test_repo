@@ -10,7 +10,9 @@
   </tr>
   <tr>
     <td valign="top">
-      <span class="badge bg-light text-dark">Light</span>
+      <a href="https://nbviewer.org/github/georgiy-vasilevskiy/test_repo/blob/main/Forecasting_the_Steel_Melting_Temperature_at_the_End_of_the_Alloying_Stage.ipynb">
+        <img src="https://img.shields.io/badge/Смотреть-ipynb-blue">
+      </a>
 
 
 [Смотреть](https://nbviewer.org/github/georgiy-vasilevskiy/test_repo/blob/main/Forecasting_the_Steel_Melting_Temperature_at_the_End_of_the_Alloying_Stage.ipynb)
@@ -30,6 +32,6 @@
 
 ![](https://komarev.com/ghpvc/?username=georgiy-vasilevskiy&label=Profile+views)
 
-![](https://img.shields.io/badge/any_text-текст-blue)
+
 
 <a href="https://nbviewer.org/github/georgiy-vasilevskiy/test_repo/blob/main/Forecasting_the_Steel_Melting_Temperature_at_the_End_of_the_Alloying_Stage.ipynb"><img src="https://img.shields.io/badge/any_text-you_like-blue"></a>
