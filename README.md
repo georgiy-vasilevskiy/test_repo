@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td>
-      text
+      <a taget="_blank" title="Использовать nbviewer" href="https://nbviewer.org/github/georgiy-vasilevskiy/test_repo/blob/main/Forecasting_the_Steel_Melting_Temperature_at_the_End_of_the_Alloying_Stage.ipynb">Смотреть</a>
     </td>
     <td>
       text
