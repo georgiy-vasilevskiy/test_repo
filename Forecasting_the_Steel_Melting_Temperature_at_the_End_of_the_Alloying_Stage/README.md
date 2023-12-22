@@ -35,7 +35,7 @@
 
 Наилучшие показатели качества демонстрирует модель регрессии LASSO с максимальным числом итераций — 1000, альфой — 0,1 и порогом остановки обучения — 0,00001, с зафиксированной псевдослучайностью (random_state=250923), обученная на масштабированных данных. Значение MAE, полученной в результате проведения кросс-валидации, равно 6,1 ∘C. Значение MAE на тестовой выборке равно 5,9 ∘C.
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=georgiy-vasilevskiy.test-repo)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=georgiy-vasilevskiy.test-repo.Forecasting_the_Steel_Melting_Temperature_at_the_End_of_the_Alloying_Stage)
 
 
 ![](https://komarev.com/ghpvc/?username=georgiy-vasilevskiy&label=Profile+views)
