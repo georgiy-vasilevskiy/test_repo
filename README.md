@@ -22,11 +22,6 @@
   </tr>
 </tbody></table>
 
-  
-|Название проекта|Инструменты|
-|---|---|
-|[Прогнозирование температуры расплава стали после окончания стадии легирования](https://github.com/georgiy-vasilevskiy/test_repo/blob/main/Forecasting_the_Steel_Melting_Temperature_at_the_End_of_the_Alloying_Stage/README.md#прогнозирование-температуры-расплава-стали-после-окончания-стадии-легирования)|pandas, os, re,<br>matplotlib, seaborn,<br>scikit-learn, catboost, lightgbm, xgboost|
-
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=georgiy-vasilevskiy.test-repo)
 
 
