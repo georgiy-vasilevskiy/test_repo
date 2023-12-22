@@ -1,3 +1,6 @@
+<h3 align="center">ПЕРЕЧЕНЬ</h3>
+<h4 align="center">проектов, выполненных в рамках прохождения<br>образовательной программы "Специалист по Data Science"<br>АНО ДПО "Образовательные технологии Яндекса"</h4>
+
 <table border="1" width="100%" cellpadding="40"><tbody>
   <tr>
     <th align="center">
