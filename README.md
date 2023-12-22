@@ -1,4 +1,4 @@
-<table border="1" width="100%" cellpadding="40" cellspacing="10"><tbody>
+<table border="1" width="100%" cellpadding="40"><tbody>
   <tr>
     <td width="20%" align="center">
       <img src="pic/kandinsky-download-1697056680849.png" height="150" width="150">
