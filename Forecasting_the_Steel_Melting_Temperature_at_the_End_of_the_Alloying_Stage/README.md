@@ -1,7 +1,7 @@
 <table border="1" width="100%" cellpadding="40"><tbody>
   <tr>
     <td width="20%" align="center">
-      <img src="pic/kandinsky-download-1697056680849.png" height="150" width="150">
+      <img src="https://github.com/georgiy-vasilevskiy/test_repo/blob/main/pic/kandinsky-download-1697056680849.png" height="150" width="150">
     </td>
     <td valign="top">
       <h3>Прогнозирование температуры расплава стали после окончания стадии легирования</h3>
