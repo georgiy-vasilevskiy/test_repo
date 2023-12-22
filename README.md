@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/georgiy-vasilevskiy/test_repo/tree/main/Forecasting_the_Steel_Melting_Temperature_at_the_End_of_the_Alloying_Stage#прогнозирование-температуры-расплава-стали-после-окончания-стадии-легирования">Прогнозирование температуры расплава стали после окончания стадии легирования</a>
+      <a href="https://github.com/georgiy-vasilevskiy/test_repo/blob/main/Forecasting_the_Steel_Melting_Temperature_at_the_End_of_the_Alloying_Stage/README.md#прогнозирование-температуры-расплава-стали-после-окончания-стадии-легирования">Прогнозирование температуры расплава стали после окончания стадии легирования</a>
     </td>
     <td>
       pandas, os, re,<br>matplotlib, seaborn,<br>scikit-learn, catboost, lightgbm, xgboost
