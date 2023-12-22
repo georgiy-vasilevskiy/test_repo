@@ -1,19 +1,18 @@
 <table border="1" width="100%" cellpadding="40"><tbody>
   <tr>
-    <td width="20%" align="center">
-      text
+    <td align="center">
+      Название проекта
     </td>
     <td>
-      text
+      Инструменты
     </td>
   </tr>
   <tr>
     <td>
-      text
-      </a>
+      <a href="https://github.com/georgiy-vasilevskiy/test_repo/tree/main/Forecasting_the_Steel_Melting_Temperature_at_the_End_of_the_Alloying_Stage#прогнозирование-температуры-расплава-стали-после-окончания-стадии-легирования">Прогнозирование температуры расплава стали после окончания стадии легирования</a>
     </td>
     <td>
-      text
+      pandas, os, re,<br>matplotlib, seaborn,<br>scikit-learn, catboost, lightgbm, xgboost
     </td>
   </tr>
 </tbody></table>
