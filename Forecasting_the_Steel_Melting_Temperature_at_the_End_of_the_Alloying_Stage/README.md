@@ -9,7 +9,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td>
       <a title="Использовать для просмотра Jupyter nbviewer" href="https://nbviewer.org/github/georgiy-vasilevskiy/test_repo/blob/main/Forecasting_the_Steel_Melting_Temperature_at_the_End_of_the_Alloying_Stage/Forecasting_the_Steel_Melting_Temperature_at_the_End_of_the_Alloying_Stage.ipynb">
         <img src="https://img.shields.io/badge/Смотреть-ipynb-F37626">
       </a>
